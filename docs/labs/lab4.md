@@ -3,7 +3,7 @@ Step 1: Create the Code Engine Endpoints
 1A: Create the Travel Concierge Endpoint
 Using IBM Cloud Web UI:
 
-Navigate to IBM Cloud Code Engine Projects and select the project that has been created for you.
+## Navigate to IBM Cloud Code Engine Projects and select the project that has been created for you.
 Click 'Applications'
 Click 'Create'
 Creating your Travel Concierge Application:

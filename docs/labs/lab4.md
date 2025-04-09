@@ -1,5 +1,6 @@
 # Register your deployed agents into watsonx Orchestrate
-Step 1: Create the Code Engine Endpoints
+
+##  Step 1: Create the Code Engine Endpoints
 1A: Create the Travel Concierge Endpoint
 Using IBM Cloud Web UI:
 
